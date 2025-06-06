@@ -1,4 +1,9 @@
-M4 Pro Mac Chip
+Device Info: 
+- M4 Pro Mac Chip
+- Memory 24GB
+- Version 15.5 (24F74)
+- Serial number CWQVL2M9C0
+
 
 - Had to downgrade: torchvision==0.17.2 torch==2.2.2
 
