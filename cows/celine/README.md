@@ -1,5 +1,5 @@
 Device Info: 
-- M4 Pro Mac Chip
+- M4 Pro Chip
 - Memory 24GB
 - Version 15.5 (24F74)
 - Serial number CWQVL2M9C0
